@@ -1,0 +1,5 @@
+git init komutlu ile dosyaya git repository oluşturuldu.
+git add . komutu ile dosyayı stage area'ya ekledik.
+git commit -m "first commit" komutu ile dosyayı commit ettik.
+git remote add origin ile repository'nin adresini ekledik.
+git push origin master komutu ile dosyayı remote repository'e gönderdik.
